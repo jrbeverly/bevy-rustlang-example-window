@@ -1,0 +1,9 @@
+[package]
+name = "bevytest"
+version = "0.0.1"
+authors = ["jrbeverly <jonathan@jrbeverly.me>"]
+edition = "2021"
+
+[dependencies]
+bevy = "0.6.1"
+bevy_mod_picking = "0.5.4"

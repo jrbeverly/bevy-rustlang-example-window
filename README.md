@@ -9,3 +9,5 @@ Fiddling with one of the Bevy examples for provisioning a window with Bevy.
 - Earlier version of bevy had issue with missing audio driver (devcontainer) failing the build
 
 Don't think will continue with this for now, maybe investigate later.
+
+Components for the chess board sourced from https://caballerocoll.com/blog/bevy-chess-tutorial/
